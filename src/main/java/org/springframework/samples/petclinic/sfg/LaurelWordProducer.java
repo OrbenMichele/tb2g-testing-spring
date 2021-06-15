@@ -7,7 +7,6 @@ import org.springframework.stereotype.Component;
  * Created by micheleorben on 14/06/21
  */
 @Component
-@Primary
 public class LaurelWordProducer implements WordProducer {
 
     @Override
